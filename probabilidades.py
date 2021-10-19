@@ -5,6 +5,7 @@ def tirar_dado(numero_de_tiros):
 
     for _ in range(numero_de_tiros):
         tiro = random.choice([1, 2, 3, 4, 5, 6])
+        # random.randint(1 ,7)
         secuencia_de_tiros.append(tiro)
 
     return secuencia_de_tiros
