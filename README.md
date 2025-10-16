@@ -33,17 +33,17 @@ El objetivo es proporcionar herramientas interactivas para entender temas clave 
 4. Estudia las guías en `notas/` para teoría y ejercicios.
 
 ## Guías de Estudio
-Cada tema del temario tiene una guía dedicada en la carpeta `notas/`:
-- [Experimento Aleatorio y Probabilidad](notas/experimento_aleatorio_probabilidad.md)
-- [Variables Aleatorias](notas/variables_aleatorias.md)
-- [Esperanza y Varianza](notas/esperanza_varianza.md)
-- [Distribuciones de Probabilidad](notas/principales_distribuciones.md)
-- [Vectores Aleatorios](notas/vectores_aleatorios.md)
-- [Función Generadora de Momentos](notas/funcion_generadora_momentos.md)
-- [Desigualdades](notas/desigualdades.md)
-- [Tipos de Convergencia](notas/tipos_convergencia.md)
-- [Ley de Grandes Números](notas/ley_grandes_numeros.md)
-- [Teorema Central del Límite](notas/teorema_central_limite.md)
+Cada tema del temario tiene una guía dedicada en la carpeta `notas/` (ordenadas numéricamente para facilitar el estudio secuencial):
+- [01 - Experimento Aleatorio, Probabilidad, Probabilidad Condicional, Independencia](notas/01_experimento_aleatorio_probabilidad.md)
+- [02 - Variables Aleatorias y Funciones de Distribución](notas/02_variables_aleatorias.md)
+- [03 - Esperanza, Varianza, Momentos](notas/03_esperanza_varianza.md)
+- [04 - Principales Distribuciones de Probabilidad](notas/04_principales_distribuciones.md)
+- [05 - Vectores Aleatorios](notas/05_vectores_aleatorios.md)
+- [06 - Función Generadora de Momentos y Función Característica](notas/06_funcion_generadora_momentos.md)
+- [07 - Desigualdades (Markov, Chebyshev)](notas/07_desigualdades.md)
+- [08 - Tipos de Convergencia](notas/08_tipos_convergencia.md)
+- [09 - Ley de Grandes Números](notas/09_ley_grandes_numeros.md)
+- [10 - Teorema Central del Límite](notas/10_teorema_central_limite.md)
 
 ## Contribución
 Si encuentras errores o quieres agregar ejemplos, abre un issue o envía un pull request.
