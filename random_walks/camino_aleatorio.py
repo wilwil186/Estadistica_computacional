@@ -1,7 +1,7 @@
 
-from borracho import BorrachoTradicional
-from campo import Campo 
-from coordenada import Coordenada 
+from .borracho import BorrachoTradicional
+from .campo import Campo 
+from .coordenada import Coordenada 
 
 from bokeh.plotting import figure, show
 

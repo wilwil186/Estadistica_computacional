@@ -1,6 +1,6 @@
 import random
 import math
-from estadisticas import desviacion_estandar, media
+from .estadisticas import desviacion_estandar, media
 
 def aventar_agujas(numero_de_agujas):
     adentro_del_circulo = 0
