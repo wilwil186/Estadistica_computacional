@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 Conceptos Clave (Versión Concisa)
+## 🎯 Conceptos Clave
 
 ### 1. Experimento Aleatorio
 
