@@ -173,7 +173,7 @@ E[(X - μ)ⁿ] (momento respecto a la media)
 ### Teoría Completa (Tu favorito ya incluido)
 
 1. **AprendeConAlf - Variables Aleatorias** (EXCELENTE)
-   - https://aprendeconalf.es/estadistica-manual/06-variables-aleatorias.html
+   - https://aprendeconalf.es/estadistica-manual/08-estimacion.html
    - ✅ Teoría clara, ejemplos, gráficos interactivos
    - ✅ Cubre discretas, continuas, esperanza, varianza
 
